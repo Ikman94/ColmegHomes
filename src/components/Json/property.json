@@ -1,0 +1,161 @@
+[{
+     "_id":"1",
+    "estate_name":"SARAT LUXURY ESTATE",
+     "img":{
+        "img1":"/img/sarat1.jpeg",
+        "img2":"/img/sarat2.jpeg",
+        "img3":"/img/sarat3.jpeg",
+        "img4":"/img/sarat4.jpeg"
+    },
+    "location":"Adolphus Nwagbara street",
+    "city":"Wuye Abuja",
+    "description": "This is an Estate seated on 7,682 square meter of land comprises of 8 (Eight) blocks of semi-detached duplexes.Each semi-detached duplex comprises of 4bedrooms all en-suite, 2 living rooms, a guest toilet, kitchen, with a room BQ attached. One of the highbrow areas in the city of Abuja.",
+    "property_type":"Semi-detached duplexes",
+    "area":"7,682sqm2",
+    "units":"8 blocks",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"4",
+    "living_rooms":"2",
+    "guest_toilet":"1",
+    "bq":"1",
+    "sq":"-"
+    }
+},
+{
+    "_id":"2",
+    "estate_name":"COLMEG ROYAL HOMES - JAHI (PHASE IV)",
+    "img":{
+        "img1":"/img/jahiPhase.jpeg",
+        "img2":"/img/jahiPhase4(1).jpeg",
+        "img3":"/img/jahiPhase4.jpeg",
+        "img4":"/img/jahiPhase4(2).jpeg"
+    },
+    "location":"NA",
+    "city":"Jahi Abuja",
+    "description": "Strategically located in the heart of Abuja by Gilmore Construction Company Jahi. This Estate comprises of Six Six (6) units of Four (4) Bedroom Terrace Duplex with Servant’s Quarters seated on an area of 1,671.11 square meters of land. Truly stunning to behold, this building offers four generously appointed bedrooms – a master & Three spacious bedrooms. All en-suite & equipped with high quality bathroom.",
+    "property_type":"Terrace Duplex",
+    "area":"1,671.11sqm2",
+    "units":"6 units",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"4",
+    "living_rooms":"-",
+    "guest_toilet":"-",
+    "bq":"-"
+    }
+},
+{
+    "_id":"3",
+    "estate_name":"COLMEG ROYAL HOMES – WUYE (PHASE V)",
+    "img":{
+        "img1":"/img/wuye(PhaseV).png",
+        "img2":"/img/phase5.png",
+        "img3":"/img/wuye(PhaseV).png",
+        "img4":"/img/slide3.jpg"
+    },
+    "location":"Cadastral Zone BO3",
+    "city":"Wuye Abuja",
+    "description": "Consist of 5 units of 4Bedroom Terrace Duplex with Servant’s Quarters on an areas of 1,132.85sqm of land located at Wuye District BO3, Cadestral Zone, Abuja. All rooms are en-suite and are completed and sold out.",
+    "property_type":"Terrace Duplex",
+    "area":"1,132.85sqm2",
+    "units":"5 units",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"4",
+    "living_rooms":"-",
+    "guest_toilet":"-",
+    "bq":"-",
+    "sq":"1"
+    }
+},
+{
+    "_id":"4",
+    "estate_name":"COLMEG ROYAL HOMES – WUYE (PHASE VI)",
+    "img":{
+        "img1":"/img/phase6.png",
+        "img2":"/img/phase6(1).jpeg",
+        "img3":"/img/phase6(2).jpeg",
+        "img4":"/img/phase6(3).jpeg"
+    },
+    "location":"NA",
+    "city":"Wuye Abuja",
+    "description": "Strategically located in the heart of Abuja by Wuye with close proximity to family worship center. This Estate consists of 6 units of 4Bedroom Terrace Duplex with Servant’s Quarters.",
+    "property_type":"Terrace Duplex",
+    "area":"1,132.85sqm2",
+    "units":"6 units",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"4",
+    "living_rooms":"-",
+    "guest_toilet":"-",
+    "bq":"-",
+    "sq":"1"
+    }
+},
+{
+    "_id":"5",
+    "estate_name":"ROCKCITY ESTATE",
+    "img":{
+        "img1":"/img/rockcity.png",
+        "img2":"/img/rockcity(1).png",
+        "img3":"/img/rockcity(2).png",
+        "img4":"/img/rockcity(3).png"
+    },
+    "location":"953 Cadastral Zone BO3",
+    "city":"Wuye Abuja",
+    "description": "This estate is located at a fast-rising urban development area in Jabi. It is directly opposite CITEC estate.\\n Our house types in the estate include:\\n 4 Bedroom Terrace with Servant’s Quarters attached.\\n 4 Bedroom Terrace with Modern Built and Finishing . \\n This house types describe above offers a new benchmark of different designs & taste for our clients which delivers a unique experience.",
+    "property_type":"Terrace Duplex",
+    "area":"NA",
+    "units":"NA",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"4",
+    "living_rooms":"-",
+    "guest_toilet":"-",
+    "bq":"1",
+    "sq":"1"
+    }
+},
+{
+    "_id":"6",
+    "estate_name":"COLMEG ROYAL HOMES - DIPSON ESTATE (KUBWA)",
+    "img":{
+        "img1":"/img/dipson.png"
+    },
+    "location":"Arab road Kubwa",
+    "city":"Kubwa Abuja",
+    "description": "This estate is located at the reserved area with a serene environment of Arab road in Kubwa off Liberty Junction.\\n Our house types in the estate include:\\n 2 Bedroom Flat (basic).\\n 3 Bedroom Flat (basic). \\n 3 Bedroom Terrace Duplex \\n \\n This house types describe above offers a new benchmark for residential schemes with an effortless combination of designs & functionality which ensures perfection & delivers a unique experience.",
+    "property_type":"Bedroom Flat",
+    "area":"-",
+    "units":"-",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"-",
+    "living_rooms":"-",
+    "guest_toilet":"-",
+    "bq":"-",
+    "sq":"-"
+    }
+},{
+    "_id":"7",
+    "estate_name":"COLMEG ROYAL HOME - DAKIBIYU",
+    "img":{
+        "img1":"/img/dakibiyu.png"
+    },
+    "location":"Opposite CITEC estate",
+    "city":"Abuja",
+    "description": "This estate is located at a fast-rising urban development area in Jabi. It is directly opposite CITEC estate.\\n Our house types in the estate include:\\n 5 Bedroom Semi-Detached With servant’s Quarters attached.\\n 4 Bedroom Terrace with Servant’s Quarters attached. \\n 4 Bedroom Terrace with Modern Built and Finishing \\n \\n This house types describe above offers a new benchmark of different designs & taste for our clients which delivers a unique experience.",
+    "property_type":"Terrace",
+    "area":"-",
+    "units":"-",
+    "status":"For Sale",
+    "amenities":{
+    "bedrooms":"4",
+    "living_rooms":"-",
+    "guest_toilet":"-",
+    "bq":"1",
+    "sq":"1"
+    }
+}
+]
